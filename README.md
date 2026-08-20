@@ -21,7 +21,7 @@
 
 ### 🛠️ Tech Stack & Skills
 
-**Languages & Frameworks**
+**Languages & Frameworks**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -31,12 +31,12 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Databases & Storage**
+**Databases & Storage**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**Integrations & Tooling**
+**Integrations & Tooling**  
 ![REST API](https://img.shields.io/badge/REST_APIs-0055DA?style=for-the-badge&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Third Party APIs](https://img.shields.io/badge/3rd_Party_Integrations-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -48,14 +48,16 @@
 
 ### 📈 GitHub Engineering Profile
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=waleedjatt88&show_icons=true&theme=tokyonight&count_private=true" alt="Waleed's Stats" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-languages/?username=waleedjatt88&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=waleedjatt88&show_icons=true&theme=tokyonight&count_private=true" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=waleedjatt88&layout=compact&theme=tokyonight&hide=html,css" height="175" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waleedjatt88&theme=tokyonight" alt="GitHub Streak" width="97%" />
-</p>
+<br />
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=waleedjatt88&theme=tokyonight" height="170" />
+</div>
 
 ---
 
