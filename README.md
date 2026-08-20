@@ -48,15 +48,19 @@
 
 ### 📈 GitHub Engineering Profile
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waleedjatt88&show_icons=true&theme=tokyonight&count_private=true" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=waleedjatt88&layout=compact&theme=tokyonight&hide=html,css" height="175" />
-</div>
+<table align="center" border="0">
+  <tr>
+    <td>
+      <img src="https://grs-nu.vercel.app/api?username=waleedjatt88&show_icons=true&theme=tokyonight&count_private=true" height="180" />
+    </td>
+    <td>
+      <img src="https://grs-nu.vercel.app/api/top-languages/?username=waleedjatt88&layout=compact&theme=tokyonight&hide=html,css" height="180" />
+    </td>
+  </tr>
+</table>
 
-<br />
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=waleedjatt88&theme=tokyonight" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=waleedjatt88&theme=tokyonight" height="180" />
 </div>
 
 ---
