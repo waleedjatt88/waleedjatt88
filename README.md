@@ -88,13 +88,11 @@
 
 <br />
 
-## 🐍 Contribution Snake
+## 🤖 Say Hi
 
-<!--START_SECTION:snake-->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/waleedjatt88/waleedjatt88/output/github-contribution-grid-snake.svg" width="97%" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/waleedjatt88/waleedjatt88/main/assets/robot.svg" width="220" alt="Waving developer robot" />
 </div>
-<!--END_SECTION:snake-->
 
 <br />
 
